@@ -24,8 +24,8 @@ MAT<br/>
 
 #blog
 伯乐头条技术分享：<br/>
-http://android.jobbole.com/81746/<br/>
-http://android.jobbole.com/81274/<br/>
-Gracker http://www.androidperformance.com/archives/<br/>
+* http://android.jobbole.com/81746/<br/>
+* http://android.jobbole.com/81274/<br/>
+[Gracker博客androidperformance](http://www.androidperformance.com/archives/)<br/>
 [正确使用TraceView](http://blog.jobbole.com/78995/)
 
