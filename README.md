@@ -30,5 +30,5 @@ MAT<br/>
 [正确使用TraceView](http://blog.jobbole.com/78995/)
 
 ##[awesome-android-performance](https://github.com/Juude/awesome-android-performance)今天发现这个库已经终结得很好了
-##todo:文章翻译https://github.com/chenxiruanhai/awesome-android-performance
+##[todo:文章翻译](https://github.com/chenxiruanhai/awesome-android-performance)
 
