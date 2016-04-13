@@ -20,7 +20,7 @@ Allocation Tracker<br/>
 Traceview和dmtracedump<br/>
 Systrace<br/>
 MAT<br/>
-
+国外全面的性能分析工具[Nimbledroid 官网](https://nimbledroid.com)   [简介](http://www.jianshu.com/p/93acf91cb804)
 
 #blog
 伯乐头条技术分享：<br/>
